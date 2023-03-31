@@ -1,4 +1,4 @@
-package com.company;
+
 
 public class Screen {
     public final static int width=350;

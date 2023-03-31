@@ -1,4 +1,4 @@
-package com.company;
+
 
 public class Yon {
     public final static int UP=0;
